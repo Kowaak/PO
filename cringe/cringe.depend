@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677764907 source:d:\2mgr1\cringe\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
