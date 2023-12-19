@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696487432 source:d:\3mgr1\sdf\main.cpp
+	<string>
+	<cstring>
+	<iostream>
+	<cstdio>
+

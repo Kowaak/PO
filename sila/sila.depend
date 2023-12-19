@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697008348 source:d:\3mgr1\sila\main.cpp
+	<iostream>
+	<math.h>
+
